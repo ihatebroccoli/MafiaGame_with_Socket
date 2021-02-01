@@ -8,12 +8,13 @@
    - if members are more than 5, one doctor will be added to the citizen 
 ---
 2. Can communicate with other members of Game
+   - Communicate with sockets
 ---
 3. Game functions
-   - Mafia can communicate with each other "Secretly"
-   - If player is Dead, "Dead members" can communicate in thier own chat. And they can watch every game chat too.
-   - Day Vote(for every living men) Night Vote(for mafias)
-   - Police , Doctor job skill
+   - Mafia can communicate each other "Secretly"
+   - If player is Dead, "Dead members" can communicate in thier own chat network. And they can watch game chats too.
+   - Day Vote(for every living men) / Night Vote(for mafias)
+   - Police and Doctor's job skill
    - System message etc.
     
   
